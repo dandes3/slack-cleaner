@@ -12,14 +12,6 @@ Install from Pip:
 pip install -e git+https://github.com/dandes3/slack-cleaner.git#egg=slack-cleaner
 ```
 
-If you prefer Docker, there is a pre-built Docker image as well:
-
-```bash
-docker pull sgratzl/slack-cleaner
-```
-
-Just use `docker run -it --rm sgratzl/slack-cleaner -c "slack-cleaner ..."` for each command or jump into a shell using `docker run -it --rm sgratzl/slack-cleaner`.
-
 ## Arguments
 ```
 usage: slack-cleaner [-h] --token TOKEN [--log] [--quiet] [--rate RATE]

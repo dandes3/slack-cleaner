@@ -9,7 +9,7 @@ this is a fork of https://github.com/kfei/slack-cleaner
 Install from Pip:
 
 ```bash
-pip install -e git+https://github.com/sgratzl/slack-cleaner.git#egg=slack-cleaner
+pip install -e git+https://github.com/dandes3/slack-cleaner.git#egg=slack-cleaner
 ```
 
 If you prefer Docker, there is a pre-built Docker image as well:
